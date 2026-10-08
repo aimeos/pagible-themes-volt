@@ -43,7 +43,7 @@
     background-color: var(--volt-dark);
 }
 
-.hero:not(:has(.background)) {
+.cms-content > .hero:not(:has(.background)) {
     color-scheme: dark;
     background: var(--volt-circuit), var(--volt-dark);
 }
