@@ -67,7 +67,7 @@
     --pico-border-radius: 0.375rem;
     --volt-dark: #0B1530;
     --volt-bolt: polygon(58% 0, 8% 56%, 44% 56%, 34% 100%, 92% 40%, 56% 40%, 72% 0);
-    --volt-circuit: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cg fill='none' stroke='%233D8BFF' stroke-opacity='.28' stroke-width='1.5'%3E%3Cpath d='M0 40h50l20 20h50v40l20 20h20M140 40h20M0 120h20M40 0v10M40 160v-40l20-20h30v60M90 0v30l10 10'/%3E%3C/g%3E%3Cg fill='%233D8BFF' fill-opacity='.55'%3E%3Ccircle cx='140' cy='40' r='3'/%3E%3Ccircle cx='20' cy='120' r='3'/%3E%3Ccircle cx='40' cy='10' r='3'/%3E%3Ccircle cx='100' cy='40' r='3'/%3E%3C/g%3E%3Ccircle cx='120' cy='60' r='3' fill='%23FFB020' fill-opacity='.8'/%3E%3C/svg%3E");
+    --volt-circuit: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='320' height='320' viewBox='0 0 160 160'%3E%3Cg fill='none' stroke='%233D8BFF' stroke-opacity='.28' stroke-width='1.5'%3E%3Cpath d='M0 40h50l20 20h50v40l20 20h20M140 40h20M0 120h20M40 0v10M40 160v-40l20-20h30v60M90 0v30l10 10'/%3E%3C/g%3E%3Cg fill='%233D8BFF' fill-opacity='.55'%3E%3Ccircle cx='140' cy='40' r='3'/%3E%3Ccircle cx='20' cy='120' r='3'/%3E%3Ccircle cx='40' cy='10' r='3'/%3E%3Ccircle cx='100' cy='40' r='3'/%3E%3C/g%3E%3Ccircle cx='120' cy='60' r='3' fill='%23FFB020' fill-opacity='.8'/%3E%3C/svg%3E");
 }
 
 @media (min-width: 1024px) {
